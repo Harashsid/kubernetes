@@ -1,0 +1,19 @@
+KUSTMIZE IS AN SIMPLE TOOL TEMPLATE FREE WHICH WE CAN ACVICE THUGH YAML CHANGES
+
+BASE KUBERNETES FILES:DEPOY,ENT,CNFIG,SERVICE
+
+OVERLAYS PART:
+ENFIRNOMENTS:
+    DEV: KUBERNTES/BASAPP
+          PATCHES: REPLCAES.YAML
+          STRTEGTC PATCG MERGE: ENVRONEMNT VARIABLES
+          IMAGES:
+                 IMAGENMEVERSION
+          CONFIGMAPGEERNATE: NAME-->NANESAOCE-->BEHAVIOYR{REPLACE}-->FILES-->DEVCONFIGJSONFILE
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+HELM:
+
+
+       
